@@ -398,6 +398,9 @@ menu {
   position: absolute;
   right: 15px;
 }
+.case-study-txt button a{
+  font-size: var(--fs-400);
+}
 .case-stydies-content {
   display: grid;
   grid-template-columns: 1fr 1fr;
